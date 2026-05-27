@@ -3,7 +3,7 @@ var https = require('https');
 var ti    = require('technicalindicators');
 var fs    = require('fs');
 
-var API_KEY = 'your_api_key_here';
+var API_KEY = 'your_api_key';
 
 var CONFIG = {
   symbol:          'XAU',
